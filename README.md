@@ -9,6 +9,6 @@ A repository of all Docker images for JoyToCode development.
 ### Node.js
 
 ```
-$ docker build -t joytocode/dev-nodejs:latest ./nodejs
+$ docker build -t joytocode/dev-nodejs:8.11 -t joytocode/dev-nodejs:latest ./nodejs
 $ docker run --rm joytocode/dev-nodejs node --version
 ```
