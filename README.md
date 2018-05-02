@@ -4,7 +4,7 @@ A repository of all Docker images for JoyToCode development.
 
 ## Usage
 
-### Install Docker CE from https://www.docker.com/community-edition
+### If your system does not have Docker, install it from https://www.docker.com/community-edition
 
 ### Node.js
 
